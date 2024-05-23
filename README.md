@@ -3,6 +3,8 @@ My personal website ismindirov.com4
 This is my website written in java and CSS
 To make changes open index.html file with vscode and see # areas and read comments
 
+Site is hosted in AWS S3+ cloudfront+ route53 
+
 
 <!DOCTYPE html>
 <html lang="en">
